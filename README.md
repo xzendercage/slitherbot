@@ -11,6 +11,10 @@ Once installed, click on [this](https://github.com/xzendercage/slitherbot/raw/ma
 
 Go to [slither.io](http://slither.io/), and enjoy !
 
+## Video Tutorial
+
+Video Is Here : [Tutorial Link](https://vimeo.com/655786877)
+
 ## Hotkeys
 ---
 Key | Result
